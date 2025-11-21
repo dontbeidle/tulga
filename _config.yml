@@ -1,7 +1,7 @@
 title: Tulǵa
 description: Qaraqalpaq ádebiyatı haqqında
-baseurl: "/tulga"
-url: "https://dontbeidle.github.io"
+baseurl: ""
+url: "https://tulga.uz"
 
 # Jekyll settings
 markdown: kramdown
