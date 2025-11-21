@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let originalContent = '';
 
     // Load search data
-    fetch('/tulga/search.json')
+    fetch('/search.json')
         .then(response => response.json())
         .then(data => {
             searchData = data;
